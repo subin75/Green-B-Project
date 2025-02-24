@@ -159,20 +159,9 @@
 <details>
   <summary>$\bf{{\color{#0969DA}정보\ 설계:\ 구조}}$</summary>
   
-  ![seoulw_정보설계](https://github.com/user-attachments/assets/a2aac419-6649-4a1e-9212-3a64d2ccd293)
+  ![seoulw_정보설계](https://github.com/user-attachments/assets/a6e167fd-9863-490e-9d6c-34189c173bef)
 </details>
 
-
-<details>
-<summary>$\bf{\rm{\color{#0969DA}추가\ 설명:\ API\ URL}}$</summary>
-	
-  ### < API URL >
-  #### 1. 공통
-  - **공연시작일**(stdate), **공연종료일**(eddate), **페이지**(cpage), **페이지당 데이터 개수**(rows)는 필수 쿼리 값
-  - 데이터 개수는 **20**으로 고정, 추가 데이터가 필요한 경우 **페이지** 값을 1씩 증가시켜 요청
-  - **지역**(signgucode)은 **서울**로 고정
-  - 각 페이지(메인, 카테고리, 검색, 디테일)에 맞게 기간을 변경하고 필요한 쿼리를 추가
-  
   #### 2. 메인
   - 1단위 요청 시 컨텐츠별로 묶어 **(이번주 공연, 공연 예정, 장르별)** 총 3그룹으로 나누어 API를 3번 요청
   - 카테고리와 동일한 데이터를 사용하나, 카테고리 API 요청 함수를 사용하면 장르 8개×3그룹=총 24번의 요청이 필요해 **요청 횟수를 줄이기 위해 메인 전용 함수를 별도로 작성**함
