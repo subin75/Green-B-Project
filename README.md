@@ -17,7 +17,7 @@
 
 ## 📑 요약
 ### 1. **주제**
-   - '풀무원'사이트 리뉴얼
+   - '풀무원' 사이트 리뉴얼
 
 ### 2. **목표**
    - 중복되는 컨텐츠 정리 및 전체비율 수정등 으로 사용자 만족도 향상 
@@ -110,10 +110,8 @@
   
 - **담당 페이지**
 
-   : [메인](https://seoulw.vercel.app/),
-  [에러페이지](https://seoulw.vercel.app/err),
-  [이용약관](https://seoulw.vercel.app/policy)
-  ${\color{#cccccc}(클릭\ 시\ 해당\ 페이지로\ 이동합니다.)}$
+   : [회사소개_ceo인사말](https://ytk27.github.io/Green-B-Project/company_ceo.html),
+  [회사소개_히스토리 및 가치](https://ytk27.github.io/Green-B-Project/company_history.html)
 
 - **역할** 
   #### (1) 기획
