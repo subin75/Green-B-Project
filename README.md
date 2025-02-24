@@ -126,8 +126,8 @@
      - 담당 페이지 개발
 
 ## ✏ 기획
-- Postman으로 여러 경우의 수의 API 응답 데이터를 분석
-- xml형식으로 들어온 데이터를 json으로 변환할 방법을 서치, 패키지를 설치해 사용하기로 함
+- 리뉴얼할 사이트 고르기
+- 퍼소나 정하기
 - 이번주 공연, 공연 예정 등 컨텐츠별 데이터를 요청하는 로직 설계, API URL 작성 **(하단 추가 설명)**
 - [API 작업자용 구글 스프레드시트](https://docs.google.com/spreadsheets/d/1hunhgwcZAyoGM4le85ZqblnQ8PAMn-0ZT9beVzkbr7c/edit?gid=584743467#gid=584743467) 작성
 - 문서화 : [Seoul, W 기획서](https://docs.google.com/document/d/1Ieh-tqHfDDQsXYfCo3cP_YHhUgt8ATDOMHSVXXcL5fs/edit?tab=t.0)
