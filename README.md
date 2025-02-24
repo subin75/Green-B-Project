@@ -110,26 +110,20 @@
   
 - **담당 페이지**
 
-   : [회사소개_ceo인사말](https://ytk27.github.io/Green-B-Project/company_ceo.html),
-  [회사소개_히스토리 및 가치](https://ytk27.github.io/Green-B-Project/company_history.html)
+   : [회사소개_ceo인사말](https://ytk27.github.io/Green-B-Project/company_ceo.html) , [회사소개_히스토리 및 가치](https://ytk27.github.io/Green-B-Project/company_history.html)
 
 - **역할** 
   #### (1) 기획
-    - Postman를 활용하여 api 응답 결과 분석, 컨텐츠별 API URL 작성 및 문서화
+    - google문서를 활용하여 컨텐츠별 문서화작성
+ 
+  #### (2) 디자인
+    - figma를 활용하여 담당 페이지 디자인 제작
   
-   #### (2) 초기 개발 환경 세팅
-    - 프로젝트 생성, 폴더구조 설계, 패키지 및 라이브러리 설치, 페이지-컴포넌트 분리 및 파일 생성, 전역 스타일 설정 등
-  
-   #### (3) 공통 컴포넌트 제작
-    - 헤더, 푸터, 장르 버튼, 컨텐츠 카드 등 공통으로 사용하는 컴포넌트 제작
-  
-   #### (4) PWA 적용
-    - manifest.json 작성, [next-pwa](https://www.npmjs.com/package/@ducanh2912/next-pwa)패키지 사용
-  
-   #### (5) 이슈 발생 시 보조
-    - 버그 수정 등
-   
+  #### (3) 초기 개발 환경 세팅
+    - 프로젝트 생성, 폴더구조 설계, 패키지 및 라이브러리 설치등
 
+  #### (4) 개발
+     - 담당 페이지 개발
 
 ## ✏ 기획
 - Postman으로 여러 경우의 수의 API 응답 데이터를 분석
