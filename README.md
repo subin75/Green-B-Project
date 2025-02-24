@@ -153,9 +153,8 @@
 ## ✏ 기획
 - 리뉴얼할 사이트 고르기
 - 퍼소나 정하기
-- 이번주 공연, 공연 예정 등 컨텐츠별 데이터를 요청하는 로직 설계, API URL 작성 **(하단 추가 설명)**
-- [API 작업자용 구글 스프레드시트](https://docs.google.com/spreadsheets/d/1hunhgwcZAyoGM4le85ZqblnQ8PAMn-0ZT9beVzkbr7c/edit?gid=584743467#gid=584743467) 작성
-- 문서화 : [Seoul, W 기획서](https://docs.google.com/document/d/1Ieh-tqHfDDQsXYfCo3cP_YHhUgt8ATDOMHSVXXcL5fs/edit?tab=t.0)
+- goole 문서 작성
+- 문서화 : [Pulmuone 기획서](https://docs.google.com/presentation/d/1tlmfOmfyTzOd-6NjCS3rTwU-81MRL-_QRetkOH44cr4/edit#slide=id.p)
 
 <details>
   <summary>$\bf{{\color{#0969DA}정보\ 설계:\ 구조}}$</summary>
