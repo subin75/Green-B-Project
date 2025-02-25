@@ -176,7 +176,7 @@
   ![Pulmuone_디자인 작업](https://github.com/user-attachments/assets/00d5319e-92c7-4a8a-8c27-799991ac1c61)
 </details>
 
- #### 4. 개발
+ #### 3. 개발
   - swiper을 참고하여 옆으로 슬라이드 작업
   - 'i'라는 미지수를 두어 이미지 변경과 텍스트 변경 작업
   - active를 주어 탭바를 누를시 색깔이 바뀌게 작업
