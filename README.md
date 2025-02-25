@@ -230,18 +230,10 @@
 ## 📱 스크린샷
 
 <details>
-  <summary>$\bf{{\color{#0969DA} 작업물:\ 작업물}}$</summary>
+  <summary>$\bf{{\color{#0969DA} 회사소개:\ 작업물}}$</summary>
    
   ![Pulmuone (1)](https://github.com/user-attachments/assets/1c2b32e0-dad0-44e3-b68a-7b422792cec1)
   ![ytk27 github io_Green-B-Project_company_history html (7)](https://github.com/user-attachments/assets/8e2ae793-163e-491f-bf06-f08423c0311a)
   ![ytk27 github io_Green-B-Project_company_history html (8)](https://github.com/user-attachments/assets/c6110859-b85f-49ec-bd0c-b2782591dc4d)
 </details>
 
-
-<!--
-<details>
-  <summary>$\bf{{\color{#0969DA}이미지}}$</summary>
-
-![t](https://github.com/user-attachments/assets/dd46735e-4f07-4ab9-9eb6-7377388ddaa3)
-</details>
--->
