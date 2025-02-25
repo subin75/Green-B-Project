@@ -166,12 +166,6 @@
 - google 문서 작성
 - 문서화 : [Pulmuone 기획서](https://docs.google.com/presentation/d/1tlmfOmfyTzOd-6NjCS3rTwU-81MRL-_QRetkOH44cr4/edit#slide=id.p)
 
-<details>
-  <summary>$\bf{{\color{#0969DA}정보\ 설계:\ 구조}}$</summary>
-  
-  ![Pulmuone_정보설계](https://github.com/user-attachments/assets/a6e167fd-9863-490e-9d6c-34189c173bef)
-</details>
-
 #### 2. 디자인
   - 팀원과 소통하여 간격과 글꼴, 폰트크기을 어떻게 둘 것인지 정하기
   - 맡은 파트 디자인 작업
