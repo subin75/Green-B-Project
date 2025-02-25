@@ -6,7 +6,8 @@
 ## 🥬 소개
 기존의 **풀무원** 사이트를 리디자인 및 재구성한 리뉴얼 프로젝트입니다.
 
-![seoulw_sub (3)](https://github.com/user-attachments/assets/cb28df43-f385-4149-a4c6-b6b174f82dff)
+![KakaoTalk_20250225_124157692_01](https://github.com/user-attachments/assets/266a00cb-5bff-4218-8115-173057fd74ca)
+
 
 
 ## 🔗 URL
